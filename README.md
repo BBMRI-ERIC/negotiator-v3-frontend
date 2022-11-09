@@ -1,4 +1,4 @@
-# negotiator-v3-frontend
+# my-app
 
 ## Project setup
 ```
